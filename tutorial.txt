@@ -1,0 +1,38 @@
+						TUTORIAL
+
+Welcome to the ANOTHER BATTLE game!
+
+ABOUT THE GAME:
+This is only multiplayer turn base strategy, where you can take control of a small detachment of  troops and challenge your friends.
+
+STORY:
+Orcs and humans  at the same  time find the  portal and rune stones.  These  artifacts are  allowed to  several times to strengthen the 
+magical power of the person who possesses them. Bloody conflicts will decide the fate of these shrines.
+
+GAME OBJECTIVE:
+Destroy enemy Townhall.
+
+GAME MECHANICS:
+At the top of the screen you will see an icon of the current squad. You can select and move units from the available squad in any order.
+Each unit has  5 moves,  which are used  independently of the action (movement / attack). Shells firing units can reach the outskirts of
+the edge of the field, so be careful when choosing the position of your soldiers.
+
+GAME CONTROL:
+
+KEY		ACTION
+UP ARROW	move up
+DOWN ARROW	move down
+LEFT ARROW	move left
+RIGHT ARROW	move right
+SPACE		hit
+MOUSE LB	choose unit
+MOUSE RB	unit information
+
+
+
+DEVELOPER:
+Andrii Temnozor.
+
+All comments and suggestions please send to temnozor.ya@gmail.com.
+
+Thank You!

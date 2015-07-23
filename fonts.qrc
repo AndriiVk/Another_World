@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/fnt">
+        <file>Font/LifeCraft_Font.ttf</file>
+    </qresource>
+</RCC>
